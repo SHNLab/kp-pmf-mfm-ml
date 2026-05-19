@@ -47,7 +47,7 @@ Removed from earlier versions: MMP9 (not mitochondrial), SIRT1 (nuclear-predomin
 - Outer loop: Leave-One-Compound-Out (LOCO) — each compound left out once
 - Inner loop: 5-fold grid search on remaining training data
 - Prevents hyperparameter overfitting to test compounds
-- Reports honest R² and MAE per target
+- Reports R² and MAE per target
 
 Hyperparameter grid searched:
 
