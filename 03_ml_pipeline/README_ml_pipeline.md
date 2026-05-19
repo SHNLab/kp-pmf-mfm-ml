@@ -1,9 +1,9 @@
 # 03 — ML Pipeline
 
-**Script:** `v6.py` (internal version: `run_ml_pipeline_v5`)  
+**Script:** `v6.py`  
 **Language:** Python (≥ 3.10)  
 **Target journal:** Computers in Biology and Medicine (CBM)  
-**Runtime:** approximately 20–40 minutes on a 16GB machine
+**Runtime:** approximately 20–40 minutes
 
 ---
 
