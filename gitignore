@@ -1,0 +1,39 @@
+# Data files — not pushed (unpublished experimental data)
+data/
+*.xlsx
+*.csv
+!ML_FEATURE_SCHEMA.csv
+
+# R outputs
+output/
+*.Rhistory
+*.RData
+*.Rds
+
+# Python outputs
+figures_v5/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# GROMACS outputs (large binary files)
+*.xtc
+*.trr
+*.edr
+*.tpr
+*.cpt
+*.log
+*.mdp
+*.itp
+*.top
+runs/
+_GMXMMPBSA_*
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
