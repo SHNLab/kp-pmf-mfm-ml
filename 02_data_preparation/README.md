@@ -1,7 +1,7 @@
 # 02 — Data Preparation
 
 **Pipeline:** Black-ginger PMF × MPMA Cascade — Master Feature Matrix for ML  
-**Script:** `AI_PREP_FILE_v5.R`  
+**Script:** `AI_PREP_FILE.R`  
 **Language:** R (≥ 4.3.0)
 
 ---
