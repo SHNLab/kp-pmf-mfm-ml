@@ -1,11 +1,10 @@
 """
 ================================================================================
-run_ml_pipeline_v5.py  —  ONE-SHOT ML VALIDATION + FIGURE GENERATION
+ML.py  —  ML VALIDATION + FIGURE GENERATION
 --------------------------------------------------------------------------------
-Merges v4 (all analyses) + v3 figure generation into a single runnable script.
-Runs every analysis end-to-end and produces all publication figures in one go.
 
-[ANALYSIS STACK — IF 5+ publication-grade]
+
+[ANALYSIS STACK]
   1. Nested cross-validation  (outer LOCO, inner 5-fold grid search on XGBoost)
   2. Conformal prediction intervals  (distribution-free 95% coverage)
   3. Y-randomization              (500 permutations per target)
@@ -43,8 +42,6 @@ READS:
   COMPOUND_CASCADE_RANKING.csv
   CLASSIFICATION_AUDIT.csv
 
-TARGET JOURNAL: Computers in Biology and Medicine (CBM)
-RUNTIME: 20-40 min on 16GB Windows laptop with tree_method='hist' + n_jobs=-1
 ================================================================================
 """
 
