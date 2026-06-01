@@ -54,7 +54,7 @@ External tools:
 
 ## Citation
 
-If you use this code, please cite the published manuscript (DOI to be added upon acceptance) and this Zenodo archive (DOI to be added upon Zenodo deposit).
+If you use this code, please cite the published manuscript.
 
 ---
 
