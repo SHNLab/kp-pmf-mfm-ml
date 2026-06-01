@@ -1,0 +1,26 @@
+{
+  "title": "Computational pipeline for Kaempferia parviflora polymethoxyflavones against the colorectal-cancer mitochondrial survival network",
+  "description": "Custom analysis scripts, machine-learning pipelines, molecular-dynamics analysis code, and figure-generation scripts accompanying the manuscript submitted to the Journal of Pharmaceutical Analysis. Includes three-layer transcriptomic target prioritisation (GSE80320, GSE32323, TCGA-COAD/READ), XGBoost regression with nested cross-validation, Random Forest classification, Lasso pharmacophore inference with bootstrap confidence intervals, ADMET integration, and triplicate molecular dynamics analysis with PBC-aware binding-site occupancy metrics.",
+  "creators": [
+    {"name": "Sharma, Aman", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"},
+    {"name": "Sharma, Abhilasha", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"},
+    {"name": "Rani, Amisha", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"},
+    {"name": "Kaur, Sumandeep", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"},
+    {"name": "Kuksal, Kritika", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"},
+    {"name": "Nile, Shivraj Hariram", "affiliation": "National Agri-Food Biotechnology Institute (NABI), Mohali, India"}
+  ],
+  "keywords": [
+    "Kaempferia parviflora",
+    "polymethoxyflavones",
+    "colorectal cancer",
+    "mitochondrial survival network",
+    "molecular dynamics",
+    "pharmacophore",
+    "machine learning",
+    "drug discovery",
+    "natural products"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "upload_type": "software"
+}
