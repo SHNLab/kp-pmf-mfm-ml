@@ -1,11 +1,5 @@
 # kp-pmf-mfm-ml
 
-Computational pipeline accompanying the manuscript:
-
-**Sharma A., Sharma A., Rani A., Kaur S., Kuksal K., Nile S.H. (2026).** *Position-specific O-methylation drives selectivity of Kaempferia parviflora polymethoxyflavones against the colorectal-cancer mitochondrial survival network.*
-
-> **Note:** This repository was originally named for the "Mitochondrial Fragmentation-to-Metastasis (MFM) axis." The cascade is referred to as the **Mitochondrial Survival Network (MSN)** in the published manuscript. The two names refer to the same nine-target panel.
-
 ---
 
 ## Overview
